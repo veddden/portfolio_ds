@@ -26,3 +26,8 @@ _Инструменты: Pandas, Matplotlib, Numpy, Scipy, Statsmodel, Pymystem3
 - [Защита данных страховой компании](https://github.com/veddden/portfolio_ds/blob/master/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8.ipynb): выполнено шифрование данных без ухудшения качества моделей машинного обучения.
 
 _Инструменты: scikit-learn, Numpy, Pandas, Matplotlib, Bootstrap, Lightgbm, Catboost, NLTK, TfidfVectorizer_
+
+### 4. Нейронные сети
+- [Классификация пчел и ос](https://colab.research.google.com/drive/15s6k0dufw748z0W6EjLfu-NewxdQx6QY?usp=sharing): построение нейронной сети по классификации пчёл и ос без использования библиотеки Keras.
+
+_Инструменты: Pandas, TensorFlow, Numpy, Matplotlib, cv2_
