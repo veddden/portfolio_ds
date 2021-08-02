@@ -28,6 +28,6 @@ _Инструменты: Pandas, Matplotlib, Numpy, Scipy, Statsmodel, Pymystem3
 _Инструменты: scikit-learn, Numpy, Pandas, Matplotlib, Bootstrap, Lightgbm, Catboost, NLTK, TfidfVectorizer_
 
 ### 4. Нейронные сети
-- [Классификация пчел и ос](https://colab.research.google.com/drive/15s6k0dufw748z0W6EjLfu-NewxdQx6QY?usp=sharing): построение нейронной сети по классификации пчёл и ос без использования библиотеки Keras.
+- [Классификация пчел и ос](https://colab.research.google.com/drive/15s6k0dufw748z0W6EjLfu-NewxdQx6QY?usp=sharing): построение нейронной сети для классификации пчёл и ос без использования библиотеки Keras.
 
 _Инструменты: Pandas, TensorFlow, Numpy, Matplotlib, cv2_
